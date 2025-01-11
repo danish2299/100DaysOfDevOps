@@ -38,7 +38,7 @@ In today’s fast-paced tech world, DevOps and cloud optimization are crucial fo
 - **GitOps with ArgoCD:** Understanding ArgoCD architecture, benefits, and limitations.
 - **Observability:** Exploring cost-effective solutions for monitoring with the O11y stack.
 - **Advanced Cloud Optimization:** Techniques for reducing costs in monitoring and scaling workflows.
-- 
+  
 ---
 
 ## **Progress Tracker**
